@@ -116,6 +116,19 @@ button:hover {
 }
 
 /* SECTION LOCATIONS  */
+.Location {
+background-image: linear-gradient(rgba(0, 0, 0, 0.781), transparent),
+url('./images/new-york-page.png');
+min-height: 90vh;
+background-position: center;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 5rem;
+text-align: center;
+}
 
 /* SECTION BENFITS  */
 
